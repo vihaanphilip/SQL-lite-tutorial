@@ -1,1 +1,1 @@
-# SQL-lite-tutorial
+# SQLLite-tutorial
